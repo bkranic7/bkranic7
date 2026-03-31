@@ -21,7 +21,7 @@ I'm a second-year Computer Science student at FERIT, interested in frontend deve
 ## 🚀 About Me
 - 🎓 FERIT — Professional Studies Computer Science
 - 💻 Interested in frontend development
-- 🎨 Learning UX/UI and Figma
+- 🎨 Learning UX/UI 
 - 🌱 Currently improving my frontend skills
 
 ## 🛠️ Technologies
