@@ -43,3 +43,4 @@ Still a work in progress.
 
 ## 📫 Contact
 GitHub: https://github.com/bkranic7
+LinkedIn: www.linkedin.com/in/bruno-kranic-446402336
