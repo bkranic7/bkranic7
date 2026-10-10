@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Bruno 👋
 
-I'm a second-year Computer Science student at FERIT, interested in frontend development and UX/UI design.
+I'm a third-year Computer Science student at FERIT, interested in frontend development and UX/UI design.
 
 ## 🚀 About Me
 - 🎓 FERIT | 3rd-year Computer Science Student (Professional Studies)
