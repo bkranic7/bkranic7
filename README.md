@@ -20,9 +20,14 @@ I'm a third-year Computer Science student at FERIT, interested in frontend devel
 
 ## 🚀 About Me
 - 🎓 FERIT | 3rd-year Computer Science Student (Professional Studies)
-- 💻 Interested in frontend development
-- 🎨 Learning UX/UI 
-- 🌱 Currently improving my frontend skills
+
+- 💻 Passionate about frontend development
+
+- 🎨 Interested in UX/UI design
+
+- 🌱 Currently learning JavaScript and React
+
+- 🚀 Building projects and improving my frontend development skills
 
 ## 🛠️ Technologies
 - HTML
